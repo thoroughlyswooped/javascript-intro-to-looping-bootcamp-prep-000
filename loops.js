@@ -10,3 +10,10 @@ function forLoop(array) {
   }
   return array;
 }
+
+function whileLoop(n) {
+  var counter = n;
+  while (n > counter) {
+    conso
+  }
+}
