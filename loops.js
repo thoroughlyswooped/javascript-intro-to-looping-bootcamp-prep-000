@@ -26,4 +26,5 @@ function doWhileLoop(array) {
 }
 
 function pointLessFunc() {
+  //why was this function even part of the assignment????
 }
