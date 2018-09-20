@@ -1,7 +1,7 @@
 function forLoop(array) {
   var myString = "";
   for (i = 0; i < 25; i++) {
-    myString = "I am ${i} strange loop."
+    myString = `I am ${i} strange loop.`;
     array.push(myString);
   }
   return array;
