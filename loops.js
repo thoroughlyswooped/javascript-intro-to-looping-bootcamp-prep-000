@@ -21,9 +21,9 @@ function whileLoop(n) {
 function doWhileLoop(array) {
   do {
     array.pop();
-  } while (incrementVariable() && array.length > 0);
+  } while (pointLessFunc() && array.length > 0);
   return array;
 }
 
-function incrementVariable() {
+function pointLessFunc() {
 }
